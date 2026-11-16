@@ -11,8 +11,8 @@ Host discovery on my own lab network with Zenmap, and footprinting of the author
 
 ## Files
 
-- [`report/`](report/): full Week 2 report with screenshots
-- [`authorization/`](authorization/): Letter of Authorization
+- [`report.docx/`](report/): full Week 2 report with screenshots
+- [`authorization.pdf/`](authorization/): Letter of Authorization
 - [`screenshots/`](screenshots/): evidence images
 
 > All testing was done with written authorization and was limited to reconnaissance and scanning. For educational use only.
