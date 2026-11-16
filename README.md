@@ -10,9 +10,7 @@ Host discovery on my own lab network with Zenmap, and footprinting of the author
 - **networkwalks.com:** server IP 192.232.216.135, Apache with WordPress, behind a ModSecurity WAF, one public e-mail found (info@networkwalks.com).
 
 ## Files
+View Repository files for detail results
 
-- [`report.docx/`](report/): full Week 2 report with screenshots
-- [`authorization.pdf/`](authorization/): Letter of Authorization
-- [`screenshots/`](screenshots/): evidence images
 
 > All testing was done with written authorization and was limited to reconnaissance and scanning. For educational use only.
